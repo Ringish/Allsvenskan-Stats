@@ -12,3 +12,4 @@ requests==2.27.1
 soupsieve==1.9.6
 urllib3==1.26.18
 Werkzeug==1.0.1
+psycopg2-binary~=2.8.6
